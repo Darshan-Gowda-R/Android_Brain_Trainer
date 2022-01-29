@@ -1,0 +1,7 @@
+com/example/braintrainer/BuildConfig.java
+ com.example.braintrainer.BuildConfig
+com/example/braintrainer/Main_Function.java
+ com.example.braintrainer.Main_Function
+ com.example.braintrainer.Main_Function$1
+com/example/braintrainer/MainActivity.java
+ com.example.braintrainer.MainActivity

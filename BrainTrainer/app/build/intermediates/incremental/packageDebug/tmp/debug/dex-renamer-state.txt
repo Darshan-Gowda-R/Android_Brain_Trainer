@@ -1,0 +1,4 @@
+#Sat Jan 29 10:09:48 IST 2022
+base.0=/home/darshan/AndroidStudioProjects/Brain_Trainer/BrainTrainer/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
